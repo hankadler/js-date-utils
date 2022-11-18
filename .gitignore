@@ -1,0 +1,17 @@
+# exclude
+*
+
+# include
+!check
+!check/**
+!src
+!src/**
+!test
+!test/**
+!.gitignore
+!.babelrc
+!.eslintrc.json
+!package.json
+!package-lock.json
+!README.md
+!LICENSE
